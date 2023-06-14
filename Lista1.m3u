@@ -126,7 +126,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/521
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Musica",Retro Plus
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Musica",Retro Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro Romance" tvg-logo="https://m.media-amazon.com/images/I/51Hna3N6dbL._UXNaN_FMjpg_QL85_.jpg" group-title="Musica",Retro Romance
