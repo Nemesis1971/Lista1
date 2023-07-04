@@ -39,8 +39,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/136
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/984.ts
+https://v3.playerlatino.live/stream/m3u8/146
 #EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="Entretenimiento",Animal Planet
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
