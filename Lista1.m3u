@@ -21,8 +21,7 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Nacionales",ECTV
 https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Oromar TV" tvg-logo="https://image.roku.com/developer_channels/prod/04007da0f49d65eca41455df509f91ce97e8fb999d09af0f223e8d4d96bff79e.jpg" group-title="Nacionales",Oromar TV
-#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
-https://nffthex0kzt.xyz/rk/dFYUBmfbSS/RhWUQzua/734.ts
+http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9164
 #EXTINF:-1 tvg-id="ext" tvg-name="Gamavision" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="Nacionales",Gamavision
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/531.ts
