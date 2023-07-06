@@ -112,8 +112,8 @@ https://v3.playerlatino.live/stream/m3u8/418
 #EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
 https://nffthex0kzt.xyz/rk/dFYUBmfbSS/RhWUQzua/1058.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Big Bang Theory" tvg-logo="https://mystickermania.com/cdn/stickers/logo/tbbt-logo-512x512.png" group-title="24/7",Big Bang Theory
-#EXTVLCOPT:http-user-agent=m52af6wxqmjZDSg2QMLdBc4FwSmUGG5Dwk6eUK3ra4qtTefHgU3ZrmYEDL9NQdYJQy9xvA42GghD9W679VzCD8iHMHYxY9ixzDp6R
-https://nffthex0kzt.xyz/rk/dFYUBmfbSS/RhWUQzua/1096.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/676
 #EXTINF:-1 tvg-id="ext" tvg-name="ALF" tvg-logo="https://www.nicepng.com/png/detail/369-3695708_alf-logo.png" group-title="24/7",ALF
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/426
