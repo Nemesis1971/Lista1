@@ -100,8 +100,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
+https://live.telelatinohd.com:8080/MTgxLjE5OS41NC4zMw==/150_.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/6687a8165459721.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="24/7",El Chapulin Colorado
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/418
