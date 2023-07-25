@@ -138,7 +138,7 @@ https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/chunklis
 #EXTINF:-1 tvg-id="ext" tvg-name="Memorias TV" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2Fb2c464a53b696e7a720187de2969415cc8ea47f0325368dd0ea54ec9da125b32.jpg" group-title="Musica",Memorias TV
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="DLX Flashback" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/DELUXE_MUSIC_Logo_2019.png/1200px-DELUXE_MUSIC_Logo_2019.png" group-title="Musica",DLX Flashback
-https://deluxemusic.de/wp-content/uploads/sites/4/2023/01/DLX_FLASHBACK_LOGO_RGB-1.png
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VEVO 80" tvg-logo="https://i.pinimg.com/736x/99/b6/69/99b669bdb8ed9e41a033215bec16c42e.jpg" group-title="Musica",VEVO 80
 https://d36tolctzl3cf9.cloudfront.net/playlist720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="VEVO 90" tvg-logo="https://iili.io/bWxvbR.png" group-title="Musica",VEVO 90
