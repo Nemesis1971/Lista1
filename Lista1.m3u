@@ -13,7 +13,7 @@ https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=BlC1XLbAtli100u3QdcY_UKez0FGcEXe0vYzEq9LiekbDMuF9S0f0GNGctDl4BYX&dmTs=411536&dmV1st=f473f502-ea35-4d79-b68e-3722c8879e6a
 #EXTINF:-1 tvg-id="ext" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS
-https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="Nacionales",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Nacionales",ECTV
