@@ -115,7 +115,7 @@ https://v3.playerlatino.live/stream/m3u8/426
 #EXTINF:-1 tvg-id="ext" tvg-name="Los Pitufos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Los_Pitufos_%282021%29.png" group-title="24/7",Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Los Picapiedras" tvg-logo="https://e1.pngegg.com/pngimages/529/936/png-clipart-the-flintstones-folder-icon-the-flintstones-season-04-thumbnail.png" group-title="24/7",Los Picapiedras
-#EXTVLCOPT:http-user-agent=SyS1stemAp0
+#EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Doraemon" tvg-logo="https://www.freepnglogos.com/uploads/doraemon-png/doraemon-logo-movies-hindi-dubbed-download-34.png" group-title="24/7",Doraemon
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
