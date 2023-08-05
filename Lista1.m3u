@@ -101,7 +101,8 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
 #EXTVLCOPT:http-user-agent=SyS1stemAp0
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
-https://live.telelatinohd.com:8080/MTgxLjE5OS41NC4zMw==/150_.m3u8?token=Q8HySB1saELFLFTtdZyNBA&expires=1690331544
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Mazinger Z" tvg-logo="https://ih1.redbubble.net/image.1963724657.5314/pp,840x830-pad,1000x1000,f8f8f8.jpg" group-title="24/7",Mazinger Z
 #EXTVLCOPT:http-user-agent=Infinitylife2978tvprohdqwertlkhdferdhhdpro
 https://nffthex0kzt.xyz/rk/StarPlaynorobesnosperjudicas/compratulista/1058.ts
