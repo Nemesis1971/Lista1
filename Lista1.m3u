@@ -73,8 +73,7 @@ https://nffthex0kzt.xyz/rk/GzJnupY36s/6v8HsTv4Cw/859.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="PlanetaTV Movie" tvg-logo="https://m.media-amazon.com/images/I/31Qorkn-qGL.png" group-title="Entretenimiento",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/287
+http://elmonkey.us:25461/Victor/Victor/84
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/892
