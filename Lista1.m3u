@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Nacionales",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+https://youvideostreaming.club/hls/ecutv4.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa Guayaquil
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/524.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa Quito
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dvr/603ea23f928cc5255563012c/publish/media_1800.m3u8?aid=60214bbd7267582b2467eff9&uid=x8SJqWwf96MFwTf9NBdyZ5FF1mg8zrC0&sid=lOhAW1vlg0p2UVehTkjHLeGQERXgZeFE&pid=GW7wfgGjS6u2s79gix4yK4oBH0yChXLq&ref=https%3A%2F%2Fwww.ecuavisa.com%2F&without_cookies=false&listenerid=&dvrOffset=3600&dnt=true&type=dvr&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1691758150386&ot=gmAWS3KuuJco-3EZ1Y89hg&proto=https&pz=us&_HLS_skip=YES
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="ext" tvg-name="TVC" tvg-logo="https://www.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Nacionales",TVC
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
