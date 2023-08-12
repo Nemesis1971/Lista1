@@ -2,7 +2,8 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Nacionales",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas
-https://youvideostreaming.club/hls/ecutv4.m3u8
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/527.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa Guayaquil
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/524.ts
@@ -11,17 +12,20 @@ https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="ext" tvg-name="TVC" tvg-logo="https://www.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Nacionales",TVC
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
-https://youvideostreaming.club/hls/ecutv3.m3u8
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/526.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="RTU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="Nacionales",RTU
 https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ECTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Nacionales",ECTV
-https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/525.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Oromar TV" tvg-logo="https://image.roku.com/developer_channels/prod/04007da0f49d65eca41455df509f91ce97e8fb999d09af0f223e8d4d96bff79e.jpg" group-title="Nacionales",Oromar TV
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/9164
 #EXTINF:-1 tvg-id="ext" tvg-name="Gamavision" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="Nacionales",Gamavision
-https://live-ak.vimeocdn.com/exp=1691585282~acl=%2F2480e7c3-6d37-4f67-91ce-8c9a7a98d691%2F%2A~hmac=42276f778fe05ac74bbadedf6750edb189d4689b61a6258a4b557e5e162383b7/2480e7c3-6d37-4f67-91ce-8c9a7a98d691/hls.m3u8?min_seconds=30
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/531.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="Nacionales",Telerama
 https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ecotel" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1f/c2/e3/1fc2e331-81ab-f29a-74d4-7d2dc3ffa36b/source/512x512bb.jpg" group-title="Nacionales",Ecotel
