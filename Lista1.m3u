@@ -80,11 +80,11 @@ http://elmonkey.us:25461/Victor/Victor/117068
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/804.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 1" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/7/c17b6743a5e19bd224efcbb69b03f3a0_icon.jpg" group-title="Deportes",DSPORTS 1
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1032.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/259
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 2" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png" group-title="Deportes",DSPORTS 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/850.ts
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+https://v3.playerlatino.live/stream/m3u8/667
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS +" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png" group-title="Deportes",DSPORTS +
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/793.ts
