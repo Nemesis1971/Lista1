@@ -42,7 +42,7 @@ https://v3.playerlatino.live/stream/m3u8/136
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/178.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Animal-Planet-Logo.png" group-title="Entretenimiento",Animal Planet
+#EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Entretenimiento",Animal Planet
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png" group-title="Entretenimiento",Cinecanal
