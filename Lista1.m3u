@@ -124,7 +124,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",El Chapulin Colorado
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:-1 tvg-id="ext" tvg-name="El Santo" tvg-logo="https://i.ytimg.com/vi/uipctMUS2Rs/hqdefault.jpg" group-title="24/7",El Santo
+#EXTINF:-1 tvg-id="ext" tvg-name="El Santo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Saint_titlecard.jpg" group-title="24/7",El Santo
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Big Bang Theory" tvg-logo="https://mystickermania.com/cdn/stickers/logo/tbbt-logo-512x512.png" group-title="24/7",Big Bang Theory
