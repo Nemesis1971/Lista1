@@ -104,14 +104,11 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/402
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/152
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/716.ts
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/153
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/717.ts
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/23
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",FOX Sports Premium
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
