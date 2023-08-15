@@ -98,8 +98,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://futbol-libre.vip/img/logo-canal/ESPN_4.webp" group-title="Deportes",ESPN 4
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
+http://138.255.102.3:25461/restreamin/U9ydnT8kwL/4266
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN +" tvg-logo="https://img.favpng.com/17/1/11/espn-espn3-logo-espn-events-png-favpng-Dux2GDs0rt0Y22YgwfAubvLE7.jpg" group-title="Deportes",ESPN +
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
