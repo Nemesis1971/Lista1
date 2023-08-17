@@ -114,11 +114,11 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
 http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62689
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/764
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/814.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Paraguay
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/843
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/819.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 https://v3.playerlatino.live/stream/m3u8/509
