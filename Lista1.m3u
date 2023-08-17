@@ -144,7 +144,7 @@ https://v3.playerlatino.live/stream/m3u8/669
 https://v3.playerlatino.live/stream/m3u8/521
 #EXTINF:-1 tvg-id="ext" tvg-name="Bleach" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI5hWj8GVCgeiypaH9Icxa8wfCL7de10BbuQ&usqp=CAU" group-title="24/7",Bleach
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/883
+https://v3.playerlatino.live/stream/m3u8/423
 #EXTINF:-1 tvg-id="ext" tvg-name="Kung Fu" tvg-logo="https://pictures.betaseries.com/fonds/poster/b0d37c0718581068647bd49dd1815e47.jpg" group-title="24/7",Kung Fu
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/149.ts
