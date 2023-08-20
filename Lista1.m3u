@@ -32,7 +32,7 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ecotel" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1f/c2/e3/1fc2e331-81ab-f29a-74d4-7d2dc3ffa36b/source/512x512bb.jpg" group-title="Nacionales",Ecotel
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286424
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
-http://201.222.44.220:4227/play/a004/index.m3u8
+http://160.20.165.245:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
