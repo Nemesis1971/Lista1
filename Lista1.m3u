@@ -32,8 +32,7 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Ecotel" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1f/c2/e3/1fc2e331-81ab-f29a-74d4-7d2dc3ffa36b/source/512x512bb.jpg" group-title="Nacionales",Ecotel
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/286424
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://nffthex0kzt.xyz/rk/LadronesdejenderrobarmierdaperjudicaN/Cgfghdsgssfthvfdhrewhhgdsxdwwrssccxcb/660.ts
+http://201.222.44.220:4227/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
@@ -56,8 +55,9 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretenimiento",Discovery
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://nffthex0kzt.xyz/rk/LadronesdejenderrobarmierdaperjudicaN/Cgfghdsgssfthvfdhrewhhgdsxdwwrssccxcb/514.ts
+http://201.222.44.220:4227/play/a02x/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://logopond.com/logos/8379120c26fa8367fd67c7dd22d88d5f.png" group-title="Entretenimiento",Discovery ID
+http://201.222.44.220:4227/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="Entretenimiento",Gourmet
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
@@ -115,7 +115,7 @@ http://201.222.44.220:4227/play/a00u/index.m3u8
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
-http://2hubs.ddns.net:25461/iptvsolu/eI3mjZ1M7Y/62689
+http://201.222.44.220:4227/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
 #EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
 https://nffthex0kzt.xyz/rk/LadronesdejenderrobarmierdaperjudicaN/Cgfghdsgssfthvfdhrewhhgdsxdwwrssccxcb/1185.ts
@@ -123,8 +123,7 @@ https://nffthex0kzt.xyz/rk/LadronesdejenderrobarmierdaperjudicaN/Cgfghdsgssfthvf
 #EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
 https://clubtv.link/1708a/key4512/android1.php?c=1170&f=.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
-#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
-https://nffthex0kzt.xyz/rk/LadronesdejenderrobarmierdaperjudicaN/Cgfghdsgssfthvfdhrewhhgdsxdwwrssccxcb/912.ts
+http://201.222.44.220:4227/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rompeportones" tvg-logo="https://i.ytimg.com/vi/D2QPz2Yi7vY/hqdefault.jpg" group-title="24/7",Rompeportones
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
