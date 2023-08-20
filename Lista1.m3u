@@ -106,14 +106,11 @@ https://live.telelatinohd.com:8080/MTU3LjEwMC4xMzcuMTI=/167_.m3u8?token=FjzzR8VD
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://clubtv.link/1708a/key4512/android1.php?c=898&f=.m3u8
+http://201.222.44.220:4227/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://clubtv.link/1708a/key4512/android1.php?c=899&f=.m3u8
+http://201.222.44.220:4227/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
-#EXTVLCOPT:http-user-agent=Infinitylife2978ktvprohdqwzxrtlkhdferdhhdpro
-https://clubtv.link/1708a/key4512/android1.php?c=902&f=.m3u8
+http://201.222.44.220:4227/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",FOX Sports Premium
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
