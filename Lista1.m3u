@@ -57,7 +57,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretenimiento",Discovery
 http://201.222.44.220:4227/play/a02x/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://logopond.com/logos/8379120c26fa8367fd67c7dd22d88d5f.png" group-title="Entretenimiento",Discovery ID
-http://201.222.44.220:4227/play/a011/index.m3u8
+http://160.20.165.245:8000/play/a012/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="Entretenimiento",Gourmet
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
