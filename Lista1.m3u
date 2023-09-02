@@ -2,8 +2,7 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Nacionales",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/527.ts
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121624
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa GYE
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1111
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA UIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa UIO
