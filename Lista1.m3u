@@ -4,8 +4,10 @@ https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/527.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa
-http://50.7.66.234:8080/Javier1120/112020/8084
+#EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa GYE
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1111
+#EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA UIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa UIO
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121621
 #EXTINF:-1 tvg-id="ext" tvg-name="TVC" tvg-logo="https://www.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Nacionales",TVC
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
@@ -104,9 +106,9 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59809
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
 http://50.7.66.234:8080/Javier1120/112020/8247
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
-http://pe.shortgod.com/wor239/tv2.php?id=814
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3750
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Paraguay
-http://pe.shortgod.com/wor239/tv2.php?id=819
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3753
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
 http://pe.shortgod.com/wor239/tv2.php?id=813
 #EXTINF:-1 tvg-id="ext" tvg-name="Rompeportones" tvg-logo="https://i.ytimg.com/vi/D2QPz2Yi7vY/hqdefault.jpg" group-title="24/7",Rompeportones
@@ -125,6 +127,16 @@ http://50.7.66.234:8080/Javier1120/112020/46491
 http://50.7.66.234:8080/Javier1120/112020/1147194
 #EXTINF:-1 tvg-id="ext" tvg-name="ALF" tvg-logo="https://www.nicepng.com/png/detail/369-3695708_alf-logo.png" group-title="24/7",ALF
 http://50.7.66.234:8080/Javier1120/112020/44721
+#EXTINF:-1 tvg-id="ext" tvg-name="House MD" tvg-logo="https://pasteldeseries.files.wordpress.com/2011/05/house_season_3.jpg?w=584" group-title="24/7",House MD
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54925
+#EXTINF:-1 tvg-id="ext" tvg-name="La Familia Monster" tvg-logo="https://1.bp.blogspot.com/-xelINuXR9qI/XsmqqMafdJI/AAAAAAAAAHI/ZIFaSYUxjrovr7ruNN9JvkeTipJcN0vdwCK4BGAsYHg/munster.png" group-title="24/7",La Familia Monster
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37787
+#EXTINF:-1 tvg-id="ext" tvg-name="X-Men" tvg-logo="https://1.bp.blogspot.com/--LiVc0_miOo/XqEZa82HngI/AAAAAAAABzw/TRhmGmYMvRkkkHZ8-LEAaL9AQ4d8PPyWQCLcBGAsYHQ/s200/x-men%2B1992.png" group-title="24/7",X-Men
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37838
+#EXTINF:-1 tvg-id="ext" tvg-name="Evangelion" tvg-logo="https://1.bp.blogspot.com/-RuSIAWoABqE/Xsp7xuEj_qI/AAAAAAAACAA/2ckzmvu7YvUx1tou6AQrLcY9uLbzKMlkgCLcBGAsYHQ/s200/evangelion.png" group-title="24/7",Evangelion
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37864
+
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Los Pitufos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_Los_Pitufos_%282021%29.png" group-title="24/7",Los Pitufos
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Los Picapiedras" tvg-logo="https://e1.pngegg.com/pngimages/529/936/png-clipart-the-flintstones-folder-icon-the-flintstones-season-04-thumbnail.png" group-title="24/7",Los Picapiedras
