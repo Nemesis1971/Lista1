@@ -67,9 +67,7 @@ https://3.ultimate2019.com/stream/hls/67
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN en EspaÃ±ol" tvg-logo="https://seeklogo.com/images/C/CNN_En_Espanol-logo-ACDEE6C08A-seeklogo.com.png" group-title="Entretenimiento",CNN en EspaÃ±ol
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/136
+
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
 #EXTVLCOPT:http-user-agent=S11elW/2.57
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/178.ts
