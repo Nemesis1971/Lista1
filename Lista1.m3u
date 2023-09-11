@@ -46,8 +46,8 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/29.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/22.ts
+#EXTVLCOPT:http-user-agent=FFFFF
+https://vivo.lamtv.tv:8081/a/0001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
 #EXTVLCOPT:http-user-agent=S11elW/2.57
