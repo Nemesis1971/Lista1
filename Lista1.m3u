@@ -136,7 +136,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-http://pe.shortgod.com/awols/tv1.php?id=287.m3u8
+http://pe.shortgod.com/awols/tv4.php?id=76
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
 http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/298698
@@ -202,8 +202,7 @@ https://3.ultimate2019.com/stream/hls/843
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Rompeportones" tvg-logo="https://i.ytimg.com/vi/D2QPz2Yi7vY/hqdefault.jpg" group-title="24/7",Rompeportones
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
+http://pe.shortgod.com/awols/tv2.php?id=127
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
