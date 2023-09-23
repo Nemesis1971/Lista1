@@ -136,11 +136,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-http://50.7.66.234:8080/Javier1120/112020/25753
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/9163
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/804.ts
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/298698
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 1" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/7/c17b6743a5e19bd224efcbb69b03f3a0_icon.jpg" group-title="Deportes",DSPORTS 1
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/956
@@ -164,7 +163,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://futbol-libre.vip/img/logo-canal/ESPN_4.webp" group-title="Deportes",ESPN 4
-http://50.7.66.234:8080/Javier1120/112020/18580
+http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/8687
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN +" tvg-logo="https://img.favpng.com/17/1/11/espn-espn3-logo-espn-events-png-favpng-Dux2GDs0rt0Y22YgwfAubvLE7.jpg" group-title="Deportes",ESPN +
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -195,8 +194,8 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
 https://3.ultimate2019.com/stream/hls/764
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Paraguay
-##EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/814.ts
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/843
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -207,8 +206,8 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/400
 
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",El Chapulin Colorado
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37765
@@ -218,13 +217,16 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37765
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Big Bang Theory" tvg-logo="https://mystickermania.com/cdn/stickers/logo/tbbt-logo-512x512.png" group-title="24/7",Big Bang Theory
-http://50.7.66.234:8080/Javier1120/112020/46491
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/676
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Two and Half Man" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two and Half Man
-http://50.7.66.234:8080/Javier1120/112020/1147194
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/675
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ALF" tvg-logo="https://www.nicepng.com/png/detail/369-3695708_alf-logo.png" group-title="24/7",ALF
-http://50.7.66.234:8080/Javier1120/112020/44721
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/426
 
 #EXTINF:-1 tvg-id="ext" tvg-name="House MD" tvg-logo="https://pasteldeseries.files.wordpress.com/2011/05/house_season_3.jpg?w=584" group-title="24/7",House MD
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54925
