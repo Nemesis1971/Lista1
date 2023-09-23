@@ -29,7 +29,7 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/525.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Oromar TV" tvg-logo="https://image.roku.com/developer_channels/prod/04007da0f49d65eca41455df509f91ce97e8fb999d09af0f223e8d4d96bff79e.jpg" group-title="Nacionales",Oromar TV
-http://50.7.66.234:8080/Javier1120/112020/1155849
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gamavision" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="Nacionales",Gamavision
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -46,8 +46,8 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/29.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-#EXTVLCOPT:http-user-agent=FFFFF
-https://vivo.lamtv.tv:8081/a/0001/playlist.m3u8
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/23.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -106,7 +106,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
 https://3.ultimate2019.com/stream/hls/22
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://logopond.com/logos/8379120c26fa8367fd67c7dd22d88d5f.png" group-title="Entretenimiento",Discovery ID
-http://160.20.165.245:8000/play/a012/index.m3u8
+https://usher.ttvnw.net/api/channel/hls/id_10q.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=4831590&play_session_id=f8f6a4a9548b7347b566b098d79aa8a1&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=fae62ebe91b3a204b71298a500204fd363f7ce3c&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22blocked_user%22%3Afalse%2C%22channel%22%3A%22id_10q%22%2C%22channel_id%22%3A677375542%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22bfd406a721fcbc73%22%2C%22expires%22%3A1695429185%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22restricted_banned_user%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22157.100.200.19%22%2C%22version%22%3A2%7D&transcode_mode=vbr_v2&cdm=wv&player_version=1.22.0
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="Entretenimiento",Gourmet
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -151,38 +151,43 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121703
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/963
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 1" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" group-title="Deportes",ESPN 1
-http://50.7.66.234:8080/Javier1120/112020/33469
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="Deportes",ESPN 2
-http://50.7.66.234:8080/Javier1120/112020/1155889
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" group-title="Deportes",ESPN 3
-http://50.7.66.234:8080/Javier1120/112020/43639
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://futbol-libre.vip/img/logo-canal/ESPN_4.webp" group-title="Deportes",ESPN 4
 http://50.7.66.234:8080/Javier1120/112020/18580
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN +" tvg-logo="https://img.favpng.com/17/1/11/espn-espn3-logo-espn-events-png-favpng-Dux2GDs0rt0Y22YgwfAubvLE7.jpg" group-title="Deportes",ESPN +
-http://50.7.66.234:8080/Javier1120/112020/43638
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/402
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/410
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/716.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/511
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/717.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",FOX Sports Premium
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/512
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
-http://50.7.66.234:8080/Javier1120/112020/8247
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -201,7 +206,8 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
-http://50.7.66.234:8080/Javier1120/112020/18576
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",El Chapulin Colorado
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37765
