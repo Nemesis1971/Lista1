@@ -143,19 +143,23 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121703
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/963
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 1" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" group-title="Deportes",ESPN 1
-http://pe.shortgod.com/coperu/tv2.php?id=718
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="Deportes",ESPN 2
-http://pe.shortgod.com/coperu/tv2.php?id=719
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" group-title="Deportes",ESPN 3
-http://pe.shortgod.com/coperu/tv2.php?id=720
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://futbol-libre.vip/img/logo-canal/ESPN_4.webp" group-title="Deportes",ESPN 4
 http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/8687
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN +" tvg-logo="https://img.favpng.com/17/1/11/espn-espn3-logo-espn-events-png-favpng-Dux2GDs0rt0Y22YgwfAubvLE7.jpg" group-title="Deportes",ESPN +
-http://pe.shortgod.com/coperu/tv2.php?id=721
+#EXTVLCOPT:http-user-agent=S11elW/2.57
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
 http://pe.shortgod.com/coperu/tv2.php?id=750
