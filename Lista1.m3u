@@ -42,36 +42,28 @@ https://envivo.telerama.ec/stream.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="España",24 Horas
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/29.ts
+http://pe.shortgod.com/coperu/tv2.php?id=29
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/23.ts
+http://pe.shortgod.com/coperu/tv1.php?id=298.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/17.ts
+http://pe.shortgod.com/coperu/tv2.php?id=17
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="España",La 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/15.ts
+http://pe.shortgod.com/coperu/tv2.php?id=15
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 4" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190320072922/cuatro-espana.jpg" group-title="España",La 4
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/18.ts
+http://pe.shortgod.com/coperu/tv2.php?id=18
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 6" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="España",La 6
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/37.ts
+http://pe.shortgod.com/coperu/tv1.php?id=326.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mega" tvg-logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="España",Mega
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/38.ts
+http://pe.shortgod.com/coperu/tv1.php?id=352.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="España",Telecinco
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/19.ts
+http://pe.shortgod.com/coperu/tv2.php?id=19
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -136,10 +128,10 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-http://pe.shortgod.com/awols/tv6.php?id=7
+http://pe.shortgod.com/coperu/tv1.php?id=514.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
-http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/298698
+http://pe.shortgod.com/coperu/tv1.php?id=892.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 1" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/7/c17b6743a5e19bd224efcbb69b03f3a0_icon.jpg" group-title="Deportes",DSPORTS 1
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/956
@@ -151,55 +143,43 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/121703
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/963
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 1" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" group-title="Deportes",ESPN 1
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
+http://pe.shortgod.com/coperu/tv1.php?id=486.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 2" tvg-logo="https://cdn.mitvstatic.com/channels/co_espn-2_m.png" group-title="Deportes",ESPN 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
+http://pe.shortgod.com/coperu/tv1.php?id=484.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/ESPN_3.jpg/revision/latest?cb=20200211201137&path-prefix=es" group-title="Deportes",ESPN 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
+http://pe.shortgod.com/coperu/tv1.php?id=485.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 4" tvg-logo="https://futbol-libre.vip/img/logo-canal/ESPN_4.webp" group-title="Deportes",ESPN 4
 http://aanax.com:8080/cipo/TAd9YX7VLaxhjxXt/8687
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN +" tvg-logo="https://img.favpng.com/17/1/11/espn-espn3-logo-espn-events-png-favpng-Dux2GDs0rt0Y22YgwfAubvLE7.jpg" group-title="Deportes",ESPN +
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
+http://pe.shortgod.com/coperu/tv1.php?id=487.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
+http://pe.shortgod.com/coperu/tv1.php?id=769.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/716.ts
+http://pe.shortgod.com/coperu/tv1.php?id=494.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/717.ts
+http://pe.shortgod.com/coperu/tv1.php?id=839.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",FOX Sports Premium
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
+http://pe.shortgod.com/coperu/tv1.php?id=658.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
+http://pe.shortgod.com/coperu/tv1.php?id=274.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/764
+http://pe.shortgod.com/coperu/tv1.php?id=764.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Paraguay
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/843
+http://pe.shortgod.com/coperu/tv1.php?id=843.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
+http://pe.shortgod.com/coperu/tv1.php?id=509.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Rompeportones" tvg-logo="https://i.ytimg.com/vi/D2QPz2Yi7vY/hqdefault.jpg" group-title="24/7",Rompeportones
 http://pe.shortgod.com/awols/tv2.php?id=127
@@ -216,8 +196,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37765
 http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Big Bang Theory" tvg-logo="https://mystickermania.com/cdn/stickers/logo/tbbt-logo-512x512.png" group-title="24/7",Big Bang Theory
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/676
+http://pe.shortgod.com/coperu/tv1.php?id=676.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Two and Half Man" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two and Half Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -248,7 +227,7 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37854
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37883
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Bean" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Bean
-http://pe.shortgod.com/awols/tv7.php?id=159918
+http://pe.shortgod.com/coperu/tv1.php?id=431.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Hellraiser" tvg-logo="https://ih1.redbubble.net/image.778312846.1985/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" group-title="24/7",Hellraiser
 http://pe.shortgod.com/awols/tv7.php?id=159933
@@ -280,9 +259,6 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54862
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Silver Hawks" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/Silverhawks_Logo.jpg" group-title="24/7",Silver Hawks
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/44380
-
-#EXTINF:-1 tvg-id="ext" tvg-name="RTVE 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="24/7",RTVE
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr_576.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Retro Plus" tvg-logo="https://i.imgur.com/fUQEubL.png" group-title="Musica",Retro Plus
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1787368596.m3u8
