@@ -39,7 +39,7 @@ https://envivo.telerama.ec/stream.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="24 horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="España",24 Horas
-https://flash.shortgod.com/cosk/tv7.php?ch=118&f=.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_576.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
 https://flash.shortgod.com/cosk/tv7.php?ch=151&f=.m3u8
