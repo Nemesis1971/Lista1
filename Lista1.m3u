@@ -15,7 +15,8 @@ https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
-http://pe.shortgod.com/coperu/tv1.php?id=885.m3u8
+#EXTVLCOPT:http-user-agent=Chrome/43.0.2357.65 Mobile Safari/537'cod.acess=9A87d8s12
+https://23.152.40.8:25463/LizardTV/9c3LcSvvgcpQ/316
 
 #EXTINF:-1 tvg-id="ext" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
