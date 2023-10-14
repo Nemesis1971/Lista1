@@ -31,8 +31,7 @@ https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gamavision" tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="Nacionales",Gamavision
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/891
+http://185.155.103.50:8080/legendstv/restream/147955
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Telerama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_Telerama.png/250px-Logo_Telerama.png" group-title="Nacionales",Telerama
 https://envivo.telerama.ec/stream.m3u8
@@ -44,41 +43,43 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-https://flash.shortgod.com/cosk/tv7.php?ch=151&f=.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/298
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
-https://flash.shortgod.com/cosk/tv7.php?ch=9081&f=.m3u8
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/737
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="España",La 2
-https://flash.shortgod.com/cosk/tv7.php?ch=9080&f=.m3u8
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/741
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 4" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190320072922/cuatro-espana.jpg" group-title="España",La 4
-https://flash.shortgod.com/cosk/tv7.php?ch=164&f=.m3u8
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/747
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 6" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="España",La 6
-https://flash.shortgod.com/cosk/tv7.php?ch=339&f=.m3u8
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/753
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mega" tvg-logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="España",Mega
-https://flash.shortgod.com/cosk/tv7.php?ch=2053&f=.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/766
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="España",Telecinco
-https://flash.shortgod.com/cosk/tv7.php?ch=2511&f=.m3u8
+http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/67
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/61
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3118.m3u8?token=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/146
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/509
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3114.m3u8?token=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Entretenimiento",Animal Planet
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -131,8 +132,7 @@ https://3.ultimate2019.com/stream/hls/102
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/514
+http://167.114.156.136:25461/INFINITV/ZX89NM22/208
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
@@ -168,8 +168,8 @@ http://pe.shortgod.com/wasd2ad/tv6.php?id=16
 http://pe.shortgod.com/wasd2ad/tv6.php?id=12
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/53
+#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
+http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3172.m3u8?token=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
