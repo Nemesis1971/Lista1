@@ -47,16 +47,16 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 https://3.ultimate2019.com/stream/hls/298
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/737
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/737
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="España",La 2
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/741
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/741
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 4" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190320072922/cuatro-espana.jpg" group-title="España",La 4
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/747
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/747
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 6" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="España",La 6
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpgXeNRLB/753
+http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/753
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mega" tvg-logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="España",Mega
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
