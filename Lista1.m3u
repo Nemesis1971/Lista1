@@ -15,7 +15,7 @@ https://jireh-1-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
-https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-EqnDnqhJxM1fYjqijGVrRaZ-nJOj7U-xf-HmjSjYsl)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
 
 #EXTINF:-1 tvg-id="ext" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Nacionales",RTS
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
