@@ -2,7 +2,10 @@
 #EXTINF:-1 tvg-id="ext" tvg-name="Hechos Ecuador" tvg-logo="https://i.imgur.com/koMQZNX.png" group-title="Nacionales",Hechos Ecuador
 https://stmv.streamingvip.click/hechosecuador/hechosecuador/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS GYE" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas GYE
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/147954
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS UIO" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas UIO
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa GYE
