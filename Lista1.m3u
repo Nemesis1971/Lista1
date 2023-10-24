@@ -39,8 +39,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/298
+https://live.telelatinohd.com:8080/MTU3LjEwMC4xMzcuMTI=/300_.m3u8?token=GQgAT8twcrkAwJ1mg3M0NQ&expires=1698173070
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
 http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/737
