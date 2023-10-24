@@ -16,7 +16,7 @@ https://3.ultimate2019.com/stream/hls/319
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8?dpssid=b134384815889651dca701e533&sid=ba5t1l1xb21432648386653264b81983f&ndvc=0
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TVC" tvg-logo="https://www.conmicelu.com/wp-content/uploads/2017/02/tvc-televicentro-ecuador.jpg" group-title="Nacionales",TVC
-http://00322.xyz:8000/rances123/9IFBBCRBIX/133667
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TC TV" tvg-logo="https://logowik.com/content/uploads/images/263_television.jpg" group-title="Nacionales",TC TV
 http://00322.xyz:8000/rances123/9IFBBCRBIX/2571
