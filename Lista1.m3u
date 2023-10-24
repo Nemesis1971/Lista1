@@ -5,10 +5,6 @@ https://video1.lhdserver.es/hechostv/live.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TELEAMAZONAS UIO" tvg-logo="https://muchomejorecuador.org.ec/wp-content/uploads/2020/10/logo-teleamazonas.jpg" group-title="Nacionales",Teleamazonas UIO
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa GYE
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/319
-
 #EXTINF:-1 tvg-id="ext" tvg-name="ECUAVISA UIO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Nacionales",Ecuavisa UIO
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/playlist.m3u8?dpssid=b134384815889651dca701e533&sid=ba5t1l1xb21432648386653264b81983f&ndvc=0
 
