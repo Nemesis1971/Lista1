@@ -184,7 +184,8 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/159340
 https://3.ultimate2019.com/stream/hls/400
 
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",El Chapulin Colorado
-http://00322.xyz:8000/rances123/9IFBBCRBIX/140845
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/418
 
 #EXTINF:-1 tvg-id="ext" tvg-name="El Santo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Saint_titlecard.jpg" group-title="24/7",El Santo
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -204,7 +205,7 @@ http://pe.shortgod.com/wasd2ad/tv2.php?id=37775
 https://3.ultimate2019.com/stream/hls/426
 
 #EXTINF:-1 tvg-id="ext" tvg-name="House MD" tvg-logo="https://pasteldeseries.files.wordpress.com/2011/05/house_season_3.jpg?w=584" group-title="24/7",House MD
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2090997
+http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090997
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La Familia Monster" tvg-logo="https://1.bp.blogspot.com/-xelINuXR9qI/XsmqqMafdJI/AAAAAAAAAHI/ZIFaSYUxjrovr7ruNN9JvkeTipJcN0vdwCK4BGAsYHg/munster.png" group-title="24/7",La Familia Monster
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37787
@@ -251,7 +252,7 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/162189
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37820
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Thundercats" tvg-logo="https://3.bp.blogspot.com/--xSOrDgMOjs/V6JiILeLqgI/AAAAAAAAE94/grqO5x42bZAnsf960ytsk3piiFN56-X4QCLcB/s1600/Thundercats.jpg" group-title="24/7",Thundercats
-http://00322.xyz:8000/rances123/9IFBBCRBIX/162186
+http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090987
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Pedro Infante" tvg-logo="https://i.pinimg.com/originals/60/2c/64/602c64e3c04064046455c943fb394bf8.jpg" group-title="24/7",Pedro Infante
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54862
