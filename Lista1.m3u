@@ -39,7 +39,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-https://live.telelatinohd.com:8080/MTU3LjEwMC4xMzcuMTI=/300_.m3u8?token=GQgAT8twcrkAwJ1mg3M0NQ&expires=1698173070
+https://clubtv.link/sep0523/key7132/lista1.php?c=a00s
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
 http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/737
@@ -61,15 +61,14 @@ https://3.ultimate2019.com/stream/hls/766
 http://167.114.156.136:25461/INFINITV/ZX89NM22/203
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/67
+https://clubtv.link/sep0523/key7132/lista1.php?c=a02s
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
 http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3118.m3u8?token=
 
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/2815
+https://clubtv.link/sep0523/key7132/lista1.php?c=a06w
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
@@ -92,30 +91,28 @@ https://3.ultimate2019.com/stream/hls/20
 https://3.ultimate2019.com/stream/hls/21
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretenimiento",Discovery
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10427
+https://clubtv.link/sep0523/key7132/lista1.php?c=a077
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://logopond.com/logos/8379120c26fa8367fd67c7dd22d88d5f.png" group-title="Entretenimiento",Discovery ID
-https://live.telelatinohd.com:8080/MTU3LjEwMC44OS4zMw==/98_.m3u8?token=I9x0Uvurf7xmzMJmfU5hag&expires=1699205373
+https://clubtv.link/sep0523/key7132/lista1.php?c=a07b
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="Entretenimiento",Gourmet
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/12256
+https://clubtv.link/sep0523/key7132/lista1.php?c=a043
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Orbit TV" tvg-logo="https://cdn.teleon.tv/logo/orbit_tv.png" group-title="Entretenimiento",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w164257373.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SET_LOGO.png/revision/latest/scale-to-width-down/200?cb=20221023220621" group-title="Entretenimiento",Sony
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2092579
+https://clubtv.link/sep0523/key7132/lista1.php?c=a05e
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Space" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="Entretenimiento",Space
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/83
+https://clubtv.link/sep0523/key7132/lista1.php?c=a06x
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Universal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Universal_Channel_2007.png/revision/latest?cb=20200116225500&path-prefix=es" group-title="Entretenimiento",Universal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/84
+https://clubtv.link/sep0523/key7132/lista1.php?c=a06m
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Entretenimiento",Warner
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/10583
+https://clubtv.link/sep0523/key7132/lista1.php?c=a05d
 
 #EXTINF:-1 tvg-id="ext" tvg-name="PlanetaTV Movie" tvg-logo="https://m.media-amazon.com/images/I/31Qorkn-qGL.png" group-title="Entretenimiento",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
@@ -166,11 +163,8 @@ https://3.ultimate2019.com/stream/hls/512
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/148456
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Bolivia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Bolivia
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/44347
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports Paraguay" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports Paraguay
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/44344
+#EXTINF:-1 tvg-id="ext" tvg-name="Tigo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaI07o-Y86Np4zdDb_gw1Mhx1bqFa49cUDQ&usqp=CAU" group-title="Deportes",Tigo Sports
+https://clubtv.link/sep0523/key7132/lista1.php?c=a05i
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDfFcXwW4gWJ8uxmXOE-gC5naqfUIFDMYg&usqp=CAU" group-title="Deportes",TNT Sports
 http://00322.xyz:8000/rances123/9IFBBCRBIX/145442
