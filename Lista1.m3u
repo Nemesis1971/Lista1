@@ -42,95 +42,92 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 https://clubtv.link/sep0523/key7132/lista1.php?c=a00s
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/737
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126265
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="España",La 2
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/741
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126213
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 4" tvg-logo="https://s3.superluchas.com/wp-content/uploads/20190320072922/cuatro-espana.jpg" group-title="España",La 4
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/747
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126215
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 6" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/BF23AB84-4B78-49FB-AA1F-ECD7EAF56EE5//720x540.jpg" group-title="España",La 6
-http://blackpanther.life:8080/7VRGtRqyXhwp/BjGGpGxeNRLB/753
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126216
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mega" tvg-logo="https://pbs.twimg.com/profile_images/1674338914591465472/My3IpKJE_400x400.jpg" group-title="España",Mega
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/766
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Telecinco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="España",Telecinco
-http://167.114.156.136:25461/INFINITV/ZX89NM22/203
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126260
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Telemadrid" tvg-logo="https://i0.wp.com/audiovisual451.com/wp-content/uploads/Telemadrid-1.jpg" group-title="España",Telemadrid
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/126231
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 1" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/History-Channel-Logo-2008.png" group-title="Entretenimiento",History 1
-https://clubtv.link/sep0523/key7132/lista1.php?c=a02s
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2825
 
 #EXTINF:-1 tvg-id="ext" tvg-name="History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png" group-title="Entretenimiento",History 2
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3118.m3u8?token=
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135668
 
 #EXTINF:-1 tvg-id="ext" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg" group-title="Entretenimiento",AXN
-https://clubtv.link/sep0523/key7132/lista1.php?c=a06w
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2801
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Entretenimiento",TNT Series
-#EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT
-http://45.90.105.74:500/budtvtoken/R3$3202/3R1W3$32/3114.m3u8?token=
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4785
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Animal Planet" tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Entretenimiento",Animal Planet
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/3
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2800
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinecanal" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png" group-title="Entretenimiento",Cinecanal
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/18
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4805
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="https://cdn.mitvstatic.com/channels/b8429039-13c7-42e5-856d-200ca8a6af37_m.jpg" group-title="Entretenimiento",Cinemax
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/20
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4807
 
 #EXTINF:-1 tvg-id="ext" tvg-name="De Pelicula" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es" group-title="Entretenimiento",De Pelicula
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/21
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/138187
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Entretenimiento",Discovery
-https://clubtv.link/sep0523/key7132/lista1.php?c=a077
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4819
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Discovery ID" tvg-logo="https://logopond.com/logos/8379120c26fa8367fd67c7dd22d88d5f.png" group-title="Entretenimiento",Discovery ID
-https://clubtv.link/sep0523/key7132/lista1.php?c=a07b
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4790
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gourmet" tvg-logo="https://marcelalovegrove.com.ar/wp-content/uploads/2022/02/El_Gourmet_2015.png" group-title="Entretenimiento",Gourmet
-https://clubtv.link/sep0523/key7132/lista1.php?c=a043
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/135676
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Orbit TV" tvg-logo="https://cdn.teleon.tv/logo/orbit_tv.png" group-title="Entretenimiento",Orbit TV
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w164257373.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Sony" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/SET_LOGO.png/revision/latest/scale-to-width-down/200?cb=20221023220621" group-title="Entretenimiento",Sony
-https://clubtv.link/sep0523/key7132/lista1.php?c=a05e
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4801
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Space" tvg-logo="https://img.favpng.com/17/5/17/space-logo-television-channel-esporte-interativo-png-favpng-VVxR657Qh8Nb2bcMZqQ3QEru0.jpg" group-title="Entretenimiento",Space
-https://clubtv.link/sep0523/key7132/lista1.php?c=a06x
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4802
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Universal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Universal_Channel_2007.png/revision/latest?cb=20200116225500&path-prefix=es" group-title="Entretenimiento",Universal
-https://clubtv.link/sep0523/key7132/lista1.php?c=a06m
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3012
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Warner" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Warner_Channel_logo.png" group-title="Entretenimiento",Warner
-https://clubtv.link/sep0523/key7132/lista1.php?c=a05d
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3013
 
 #EXTINF:-1 tvg-id="ext" tvg-name="PlanetaTV Movie" tvg-logo="https://m.media-amazon.com/images/I/31Qorkn-qGL.png" group-title="Entretenimiento",PlanetaTV Movie
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-http://bgtv.site/play/play-131.php?token=ljkj&ch2=3936
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2678
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
-http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/132288
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132288
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 1" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/7/c17b6743a5e19bd224efcbb69b03f3a0_icon.jpg" group-title="Deportes",DSPORTS 1
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/11047
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2681
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 2" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png" group-title="Deportes",DSPORTS 2
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/203185
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2680
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS +" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png" group-title="Deportes",DSPORTS +
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/203186
+http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2679
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 1" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" group-title="Deportes",ESPN 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2823
@@ -148,17 +145,16 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3039
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/3014
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1280px-Fox_Sports_1_logo.svg.png" group-title="Deportes",FOX Sports 1
-http://00322.xyz:8000/rances123/9IFBBCRBIX/135645
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/3861
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes",FOX Sports 2
-http://00322.xyz:8000/rances123/9IFBBCRBIX/135646
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2676
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="Deportes",FOX Sports 3
-http://00322.xyz:8000/rances123/9IFBBCRBIX/135647
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2677
 
 #EXTINF:-1 tvg-id="ext" tvg-name="FOX Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes",FOX Sports Premium
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/512
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2787
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TyC Sports" tvg-logo="https://aldea.tv/wp-content/uploads/2017/05/tyc-sports-tv-300x158-300x158.png" group-title="Deportes",TyC Sports
 http://00322.xyz:8000/ntxplay3@/HBRH13DNXH/148456
@@ -170,7 +166,7 @@ https://clubtv.link/sep0523/key7132/lista1.php?c=a05i
 http://00322.xyz:8000/rances123/9IFBBCRBIX/145442
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Los 3 Chiflados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Three_Stooges_1937.jpg/800px-Three_Stooges_1937.jpg" group-title="24/7",Los 3 Chiflados
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2157671
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/159340
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
