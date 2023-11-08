@@ -39,7 +39,7 @@ https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="España",Antena 3
-https://clubtv.link/sep0523/key7132/lista1.php?c=a00s
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2100550
 
 #EXTINF:-1 tvg-id="ext" tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="España",La 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/126265
@@ -166,41 +166,38 @@ https://clubtv.link/sep0523/key7132/lista1.php?c=a05i
 http://00322.xyz:8000/rances123/9IFBBCRBIX/145442
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Los 3 Chiflados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Three_Stooges_1937.jpg/800px-Three_Stooges_1937.jpg" group-title="24/7",Los 3 Chiflados
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/159340
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2157671
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Chavo Del 8" tvg-logo="https://applications-media.feverup.com/image/upload/f_auto,w_550,h_550/fever2/plan/photo/9780beca-543e-11ed-ac20-4a2f4e17ecc2.jpg" group-title="24/7",Chavo Del 8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/400
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2091028
 
 #EXTINF:-1 tvg-id="ext" tvg-name="El Chapulin Colorado" tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",El Chapulin Colorado
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
-https://3.ultimate2019.com/stream/hls/418
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090974
 
-#EXTINF:-1 tvg-id="ext" tvg-name="El Santo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/The_Saint_titlecard.jpg" group-title="24/7",El Santo
-#EXTVLCOPT:http-user-agent=S11elW/2.57
-http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="El Mentalista" tvg-logo="http://atlantis-mx.com/logos/mentalista24.png" group-title="24/7",El Mentalista
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2091002
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Big Bang Theory" tvg-logo="https://mystickermania.com/cdn/stickers/logo/tbbt-logo-512x512.png" group-title="24/7",Big Bang Theory
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2091018
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2091018
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Two and Half Man" tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two and Half Man
 http://00322.xyz:8000/rances123/9IFBBCRBIX/3378
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Good Doctor" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/62/The_Good_Doctor_2017.png" group-title="24/7",Good Doctor
-http://pe.shortgod.com/wasd2ad/tv2.php?id=37775
+#EXTINF:-1 tvg-id="ext" tvg-name="Death Note" tvg-logo="http://atlantis-mx.com/logos/death24.png" group-title="24/7",Death Note
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090995
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ALF" tvg-logo="https://www.nicepng.com/png/detail/369-3695708_alf-logo.png" group-title="24/7",ALF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/426
 
 #EXTINF:-1 tvg-id="ext" tvg-name="House MD" tvg-logo="https://pasteldeseries.files.wordpress.com/2011/05/house_season_3.jpg?w=584" group-title="24/7",House MD
-http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090997
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090997
 
-#EXTINF:-1 tvg-id="ext" tvg-name="La Familia Monster" tvg-logo="https://1.bp.blogspot.com/-xelINuXR9qI/XsmqqMafdJI/AAAAAAAAAHI/ZIFaSYUxjrovr7ruNN9JvkeTipJcN0vdwCK4BGAsYHg/munster.png" group-title="24/7",La Familia Monster
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37787
+#EXTINF:-1 tvg-id="ext" tvg-name="Los Locos Adams" tvg-logo="http://ceoapps.org/logos/locosadams.png" group-title="24/7",Los Locos Adams
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090981
 
 #EXTINF:-1 tvg-id="ext" tvg-name="X-Men" tvg-logo="https://1.bp.blogspot.com/--LiVc0_miOo/XqEZa82HngI/AAAAAAAABzw/TRhmGmYMvRkkkHZ8-LEAaL9AQ4d8PPyWQCLcBGAsYHQ/s200/x-men%2B1992.png" group-title="24/7",X-Men
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37838
+http://00322.xyz:8000/rances123/9IFBBCRBIX/129375
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Evangelion" tvg-logo="https://1.bp.blogspot.com/-RuSIAWoABqE/Xsp7xuEj_qI/AAAAAAAACAA/2ckzmvu7YvUx1tou6AQrLcY9uLbzKMlkgCLcBGAsYHQ/s200/evangelion.png" group-title="24/7",Evangelion
 http://00322.xyz:8000/rances123/9IFBBCRBIX/129375
@@ -212,14 +209,12 @@ https://imps-smrfs.otteravision.com/imps/smrfs/smrfs_720.m3u8
 http://00322.xyz:8000/rances123/9IFBBCRBIX/129349
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Doraemon" tvg-logo="https://www.freepnglogos.com/uploads/doraemon-png/doraemon-logo-movies-hindi-dubbed-download-34.png" group-title="24/7",Doraemon
-http://00322.xyz:8000/rances123/9IFBBCRBIX/129335
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://3.ultimate2019.com/stream/hls/521
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Bean" tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Bean
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
 https://3.ultimate2019.com/stream/hls/431
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hellraiser" tvg-logo="https://ih1.redbubble.net/image.778312846.1985/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" group-title="24/7",Hellraiser
-http://pe.shortgod.com/awols/tv7.php?id=159933
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Kung Fu" tvg-logo="https://pictures.betaseries.com/fonds/poster/b0d37c0718581068647bd49dd1815e47.jpg" group-title="24/7",Kung Fu
 #EXTVLCOPT:http-user-agent=S11elW/2.57
@@ -229,7 +224,7 @@ http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/149.ts
 http://00322.xyz:8000/rances123/9IFBBCRBIX/129338
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Mazinger Z" tvg-logo="https://i.pinimg.com/originals/07/0f/d3/070fd399e8c347a670ee2179e2919400.jpg" group-title="24/7",Mazinger Z
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2090956
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090956
 
 #EXTINF:-1 tvg-id="ext" tvg-name="He Man" tvg-logo="https://ih1.redbubble.net/image.3463625406.3660/st,small,507x507-pad,600x600,f8f8f8.jpg" group-title="24/7",He Man
 http://00322.xyz:8000/rances123/9IFBBCRBIX/129376
@@ -237,11 +232,11 @@ http://00322.xyz:8000/rances123/9IFBBCRBIX/129376
 #EXTINF:-1 tvg-id="ext" tvg-name="Robotech" tvg-logo="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/18f0671f1b6772787d502536b0aab786.jpe" group-title="24/7",Robotech
 http://00322.xyz:8000/rances123/9IFBBCRBIX/162189
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Bonanza" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/5HwZdG5jr_sSLoL6HM_3xw/1200x675.jpg" group-title="24/7",Bonanza
-http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37820
+#EXTINF:-1 tvg-id="ext" tvg-name="Friends" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="24/7",Friends
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/223069
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Thundercats" tvg-logo="https://3.bp.blogspot.com/--xSOrDgMOjs/V6JiILeLqgI/AAAAAAAAE94/grqO5x42bZAnsf960ytsk3piiFN56-X4QCLcB/s1600/Thundercats.jpg" group-title="24/7",Thundercats
-http://lobo-tv.live:8080/Daleplayperu52/tVFeXytHnZ/2090987
+http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2090987
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Pedro Infante" tvg-logo="https://i.pinimg.com/originals/60/2c/64/602c64e3c04064046455c943fb394bf8.jpg" group-title="24/7",Pedro Infante
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/54862
