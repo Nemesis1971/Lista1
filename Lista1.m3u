@@ -115,19 +115,19 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/3013
 https://scl.edge.grupoz.cl/movie/live/chunklist_w808055014.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Gol TV" tvg-logo="https://cdn.mitvstatic.com/channels/b39ba6be-fb3e-4ce7-a302-d9eb6461bf9e_m.jpg" group-title="Deportes",Gol TV
-http://185.155.103.50:8080/EdwinCarrillo/AppEC2023/2095412
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/132884
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ECDF" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/el-canal-del-ftbol-2289.png" group-title="Deportes",ECDF
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/132288
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 1" tvg-logo="https://cdn6.aptoide.com/imgs/c/1/7/c17b6743a5e19bd224efcbb69b03f3a0_icon.jpg" group-title="Deportes",DSPORTS 1
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/2681
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2679
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS 2" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/612.png" group-title="Deportes",DSPORTS 2
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2680
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DSPORTS +" tvg-logo="https://www.directv.com.ec/content/dam/public-sites/channels/613.png" group-title="Deportes",DSPORTS +
-http://magi-stv.net:8080/rhinoxCP/TG66W5jsaLRn/2679
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/2681
 
 #EXTINF:-1 tvg-id="ext" tvg-name="ESPN 1" tvg-logo="https://www.vnet.com.ve/wp-content/uploads/2021/03/1.png" group-title="Deportes",ESPN 1
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/2823
